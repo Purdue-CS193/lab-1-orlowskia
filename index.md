@@ -1,10 +1,10 @@
-## **Welcome to the game boys.**
+# Andrew Orlowski's first CS193 Lab
 
-## Welcome to GitHub Pages
+## Favorite Things About Purdue CS193
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-My most favorite thing about Purdue CS193 is that there is no +/- in the grading scale.
+-My second most favorite thing about Purdue CS193 is that it counts towards your GPA, unlike CS191. 
+-My third most favorite thing about Purdue CS193 are the TAs that will hopefully be generous when grading me. :)
 
 ### Markdown
 
