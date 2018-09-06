@@ -2,9 +2,9 @@
 
 ## Favorite Things About Purdue CS193
 
--My most favorite thing about Purdue CS193 is that there is no +/- in the grading scale.
--My second most favorite thing about Purdue CS193 is that it counts towards your GPA, unlike CS191. 
--My third most favorite thing about Purdue CS193 are the TAs that will hopefully be generous when grading me. :)
+- My most favorite thing about Purdue CS193 is that there is no +/- in the grading scale.
+- My second most favorite thing about Purdue CS193 is that it counts towards your GPA, unlike CS191. 
+- My third most favorite thing about Purdue CS193 are the TAs that will hopefully be generous when grading me. :)
 
 ### Markdown
 
